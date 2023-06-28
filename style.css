@@ -1,6 +1,6 @@
 body {
-    /* margin: 0;
-    padding-top: 800px; */
+    margin: 0;
+    /* padding-top: 800px; */
     text-align: center;
 }
 
@@ -9,7 +9,7 @@ body {
 }
 
 #welcome {
-    position: absolute;
+    /* position: absolute; */
     bottom: 0;
     background: linear-gradient( #f08080 0%, #60ebeb 100%);
     display: table;
